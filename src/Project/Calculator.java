@@ -517,7 +517,7 @@ public class Calculator extends javax.swing.JFrame {
         } else {
             num1 = Double.parseDouble(Display.getText().replace(",", "."));
             operator = "---";
-            Display.setText("---");           
+            Display.setText("---bnnb");           
             isOperatorPressed = true;     
         }
     }//GEN-LAST:event_btnPenguranganActionPerformed
