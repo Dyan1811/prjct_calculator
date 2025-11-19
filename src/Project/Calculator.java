@@ -516,7 +516,7 @@ public class Calculator extends javax.swing.JFrame {
 
         } else {
             num1 = Double.parseDouble(Display.getText().replace(",", "."));
-            operator = "-";
+            operator = "--";
             Display.setText("-");           
             isOperatorPressed = true;     
         }
