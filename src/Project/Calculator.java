@@ -511,7 +511,7 @@ public class Calculator extends javax.swing.JFrame {
             if (Display.getText().equals("-")) {
                 return; 
             }
-            Display.setText(""); 
+            Display.setText("Choky"); 
             isOperatorPressed = false; 
 
         } else {
