@@ -34,7 +34,7 @@ public class Gaji extends javax.swing.JFrame {
     /**
      * Creates new form DataKaryawan
      */
-   // --- KONSTRUKTOR ---
+   // -- KONSTRUKTOR --
     public Gaji() {
         initComponents();
         setTitle("Sistem Penggajian Karyawan - PT. PENCARI CINTA SEJATI");
