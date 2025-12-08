@@ -99,7 +99,7 @@ public class Gaji extends javax.swing.JFrame {
                 cmbIdKaryawanTransaksi.addItem(rs.getString("ID_Karyawan"));
                 cmbSlipIdKaryawan.addItem(rs.getString("ID_Karyawan"));
             }
-        } catch (Exception e) { /* Abaikan error */ }
+        } catch (Exception e) { /*Abaikan error*/ }
         
         // Mengisi tahun secara dinamis
         // (Asumsi ComboBox Tahun sudah memiliki item awal dari design)
